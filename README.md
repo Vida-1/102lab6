@@ -11,7 +11,6 @@ Add at least 3 dynamic components to your web page. These can be based on user i
 
 <img src="274C.svg" width="10px"/>  Stretch Goal: If the user gives you a color, can you set a part of your page to be that color?
 
-I fell short on Draft one of lab 6 but will try to improve it.
 
 
 
