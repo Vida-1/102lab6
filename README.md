@@ -5,7 +5,7 @@ Add at least 3 dynamic components to your web page. These can be based on user i
 
 <img src="2714.svg" width="10px"/>  At least one dynamic component should be based on user input.
 
-<img src="274C.svg" width="10px"/>  At least one dynamic component should use a conditional statement to determine the output.
+<img src="2714.svg" width="10px"/> At least one dynamic component should use a conditional statement to determine the output.
 
 <img src="274C.svg" width="10px"/>  Stretch Goal: Try out the confirm() function, in addition to prompt(). When’s the right time to use this?
 
