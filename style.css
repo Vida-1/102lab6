@@ -23,7 +23,7 @@ header{
         header h2{
             display: inline-block;
             font-style:italic;
-            padding: 30px;
+            padding: 0px;
             margin: 15px;
             color: rgb(0,0,255);
 }
