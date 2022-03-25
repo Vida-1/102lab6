@@ -13,9 +13,12 @@
                 <h2>
                 <!-- based on a demo provided by John Cokos -->              
                 <script>
-                    let answer = prompt("Tired of your same old same old day to day routine?");
-                    document.write(answer + "! Talk to a Code Fellows Admissions Advisor today!")
-                    
+                     let answer = prompt("Tired of your same old same old day to day routine?");
+                      if(answer.toLowerCase() !== "no"){
+                        document.write("Yes! Talk to a Code Fellows Admissions Advisor today!")
+                      } else {
+                        document.write ("It's good to hear things are going to so well for you!");
+                      }                    
                 </script>
                     </h2>
                 <h3>            
