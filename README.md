@@ -15,3 +15,6 @@ I fell short on Draft one of lab 6 but will try to improve it.
 
 
 
+
+image 2714.svg from: OpenMoji.org (Author: Carlin MacKenzie)
+image 274C.svg from: OpenMoji.org (Author	Hilda Kalyoncu)
