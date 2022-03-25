@@ -19,6 +19,15 @@ header{
             display:inline-block;
             padding: 10px;
         }
+        
+        header h2{
+            display: inline-block;
+            font-style:italic;
+            padding: 30px;
+            margin: 15px;
+            color: blue;
+}
+            
 
         header h3{
             display:block;
@@ -28,7 +37,7 @@ header{
         
           header ul li{
               display:inline-block;
-              padding: 100 px;
+              padding: 100px;
               margin: 10px 20px 30px;
               font-style: italic;
           }
